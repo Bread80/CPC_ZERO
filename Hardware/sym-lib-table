@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CPC_ZERO")(type "KiCad")(uri "${KIPRJMOD}/CPC_ZERO.kicad_sym")(options "")(descr ""))
+)
